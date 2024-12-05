@@ -145,4 +145,33 @@ align-items: flex-start;
    width: 100% ;
    margin-bottom: 30px;
 }
+/* My Goals */
+.goals-container{
+   display: flex;
+   gap: 24px;
 
+}
+.Skill-html{
+   background-color: #FFDAD9;
+   border-radius: 10px;
+   padding: 30px;
+}
+.Skill-css{
+background-color: #E1E8FF;
+padding: 15px 35px;
+border-radius: 10px;
+}
+.Skill-javascript {
+   background-color: rgba(249, 197, 95, 0.12);
+   padding: 15px 35px;
+   border-radius: 10px;
+   font-size: 15px;
+   }
+   .text-center{
+      text-align: center;
+   }
+   .Goal-description{
+      font-size: 18px;
+      font-style: inherit;
+      margin-bottom: 40px;
+   }
